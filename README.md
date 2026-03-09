@@ -1,6 +1,6 @@
 # SortingBasedUniversalKeys
 
-Matlab code used to create figures in IEEE Transactions on IT paper.
+Matlab code used to create Table II in the IEEE Transactions in IT paper.
 
 Main driver: drivertestKey.m 
 
